@@ -24,6 +24,13 @@ Sergio Vladimir Garcia Galvis y aca esta mi prueba tecnica.
 
 La idea es desarrollar todos los puntos, sin embargo, esto no necesariamente equivale a una mejor puntuación, sino la forma en la que se solucionó el problema, la dificultad del problema y que tan bien planteada fue la solución
 
+### Que objetivos se cumplieron 
+- No les voy a mentir 
+    -Crear un sistema de personalización de carros en los que se puedan agregar nuevas llantas, nuevas texturas y cambiar la estética del carro en general. 
+    -Crear e implementar 3 mecánicas de suelo (Turbo, pérdida de control del vehículo, salto, etc) en las que cuando el carro pase por encima de ellos se active la mecánica en específico.
+
+    perdon 😭
+
 
 ### Pre-requisitos para este proyecto 📋
 
