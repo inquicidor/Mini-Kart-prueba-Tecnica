@@ -26,8 +26,8 @@ La idea es desarrollar todos los puntos, sin embargo, esto no necesariamente equ
 
 ### Que objetivos se cumplieron 
 - No les voy a mentir 
-    -Crear un sistema de personalización de carros en los que se puedan agregar nuevas llantas, nuevas texturas y cambiar la estética del carro en general. 
-    -Crear e implementar 3 mecánicas de suelo (Turbo, pérdida de control del vehículo, salto, etc) en las que cuando el carro pase por encima de ellos se active la mecánica en específico.
+    **Crear un sistema de personalización de carros en los que se puedan agregar nuevas llantas, nuevas texturas y cambiar la estética del carro en general. 
+    **Crear e implementar 3 mecánicas de suelo (Turbo, pérdida de control del vehículo, salto, etc) en las que cuando el carro pase por encima de ellos se active la mecánica en específico.
 
     perdon 😭
 
