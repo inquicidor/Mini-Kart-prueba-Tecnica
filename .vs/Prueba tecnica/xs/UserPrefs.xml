@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{400CDC1E-0734-F313-9A11-DAA2BC78EF9C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Karting/Scripts/SetPlayerKart.cs">
+    <Files>
+      <File FileName="Assets/Karting/Scripts/TimeManager.cs" Line="69" Column="28" />
+      <File FileName="Assets/Karting/Scripts/KartSystems/KartBounce.cs" Line="1" Column="1" />
+      <File FileName="Assets/Karting/Scripts/KartSystems/ArcadeKart.cs" Line="188" Column="10" />
+      <File FileName="Assets/Karting/Scripts/GameModes/CrashObject.cs" />
+      <File FileName="Assets/Karting/Scripts/GameModes/SpeedPower.cs" />
+      <File FileName="Assets/Karting/Scripts/GameModes/PickupObject.cs" />
+      <File FileName="Assets/Karting/Scripts/Utilities/AudioUtility.cs" />
+      <File FileName="Assets/Karting/Scripts/AudioManager.cs" />
+      <File FileName="Assets/Karting/Scripts/KartSystems/KartAudio/ArcadeEngineAudio.cs" />
+      <File FileName="Assets/Karting/Scripts/KartSystems/Inputs/KeyboardInput.cs" />
+      <File FileName="Assets/Karting/Scripts/ArcadeKartPowerup.cs" />
+      <File FileName="Assets/Karting/Scripts/GameModes/UncontrolledPower.cs" />
+      <File FileName="Assets/Karting/Scripts/GameModes/TargetObject.cs" />
+      <File FileName="Assets/Karting/Scripts/KartSystems/Inputs/BaseInput.cs" />
+      <File FileName="Assets/Karting/Scripts/GameFlowManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Karting/Scripts/EditCart.cs" Line="17" Column="33" />
+      <File FileName="Assets/Karting/Scripts/UI/LoadSceneButton.cs" Line="10" Column="1" />
+      <File FileName="Assets/Karting/Scripts/EditorCar.cs" Line="19" Column="45" />
+      <File FileName="Assets/Karting/Scripts/ContentEdit.cs" Line="12" Column="33" />
+      <File FileName="Assets/Karting/Scripts/SetPlayerKart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a734292e-1df3-4828-a3f5-f69513275c0d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
